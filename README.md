@@ -8,6 +8,6 @@
 - Статья и пример кодирующих агентов от huggingface https://huggingface.co/docs/smolagents/conceptual_guides/intro_agents
 - Статья и доклад про будущее агентской разработки ПО https://addyo.substack.com/p/the-70-problem-hard-truths-about
 
-
+# MCP
 - Описание стандарта https://modelcontextprotocol.io/introduction
 - Коллекция серверов https://github.com/punkpeye/awesome-mcp-servers
